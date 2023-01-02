@@ -1,4 +1,4 @@
-# array
+# Array
 # Write a Java program to declare an integer array of size N. 
 
 The array size must be taken from the user. Assign the elements in the array between 1 and 100 using the nextInt(n) method of the java.util.Random class, which returns a random number between 0 and n−1 inclusive. 
